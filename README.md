@@ -1,4 +1,4 @@
-## Face_Detection 🧑‍🦱 🧑‍🦰
+# Face_Detection  🧑‍🦱 🧑‍🦰
 
 
 ![image](https://github.com/AniketBembale08/Face_Detection/assets/121147984/3e213a0e-26ec-4091-a3a5-e87bee2e7803)
