@@ -37,7 +37,7 @@ Install the required dependencies:
 
 pip install -r requirements.txt
 
-Run collect_data.py to collect user image data. It will prompt you to enter the user's name and capture images using your webcam.
+Run **collect_data.py to collect user image data. It will prompt you to enter the user's name and capture images using your webcam.
 
 Run data_preprocess.py to process the collected data and create labels for each user.
 
