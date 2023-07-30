@@ -35,7 +35,7 @@ You can find the complete list of dependencies with their versions in the requir
 ## ⭐️How to Use
 Instructions
 
-Clone the repository: git clone https://github.com/AniketBembale08/AI-Disease-Diagnosis.git
+Clone the repository: git clone   https://github.com/AniketBembale08/Face_Detection.git
 
 Install the required dependencies: 
 
