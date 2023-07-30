@@ -1,4 +1,9 @@
-### Face_Detection
+## Face_Detection 🧑‍🦱 🧑‍🦰
+
+
+![image](https://github.com/AniketBembale08/Face_Detection/assets/121147984/3e213a0e-26ec-4091-a3a5-e87bee2e7803)
+
+
 
 ## ⭐️Introduction
 This is a face detection project that uses Haarcascade and Computer Vision to collect user image data, preprocess the data, train a model using LBPHFaceRecognizer, and finally perform face detection using the trained model.
@@ -19,8 +24,7 @@ This is a face detection project that utilizes computer vision and machine learn
     |-- train.py
     |-- test.py
 
-
-    
+  
 
 ## ⭐️Dependencies
 
