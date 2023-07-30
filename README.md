@@ -17,7 +17,7 @@ This is a face detection project that utilizes computer vision and machine learn
     |-- data/
         |-- images
     |-- models/
-        |-- trained.yaml
+        |-- model.yaml
         |-- haarcascade_frontalface_default.xml
     |-- collect_data.py
     |-- data_preprocess.py
