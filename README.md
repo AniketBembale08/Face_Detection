@@ -1,12 +1,12 @@
 # Face_Detection
 
-##Introduction
+## Introduction
 This is a face detection project that uses Haarcascade and Computer Vision to collect user image data, preprocess the data, train a model using LBPHFaceRecognizer, and finally perform face detection using the trained model.
 
-##Overview
+## Overview
 This is a face detection project that utilizes computer vision and machine learning techniques to detect faces in images. The project consists of several modules for data collection, data preprocessing, model training, and face detection.
 
-##Project Structure
+## ⭐️Project Structure
 The project is structured as follows:
 face-detection/
 |-- data/
